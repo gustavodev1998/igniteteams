@@ -1,6 +1,6 @@
 import { Container, Logo, BackIcon, BackButton } from "./styles";
 
-import logoImg from "../../screens/assets/logo.png";
+import logoImg from "../../assets/logo.png";
 import { useNavigation } from "@react-navigation/native";
 
 type Props = {
